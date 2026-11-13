@@ -5,7 +5,7 @@ Cluster renderer draws apps' content, such as the
 cluster and the head-up display of a BMW with iDrive 7 or iDrive 8.
 
 You don't install or use it on its own. The Store installs it with the apps
-that need it, and it has no settings. If something an app draws doesn't
+that need it, and there is nothing to set up. If something an app draws doesn't
 show, follow that app's instructions; for Waze on cluster, see
 [If the map doesn't show](../../apps/robertn_waze_cluster/README.md#if-the-map-doesnt-show).
 

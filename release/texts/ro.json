@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze pe bord",
-    "description": "Afișează harta CarPlay sau Android Auto pe bord și, dacă alegeți, pe HUD. Pornește singură după instalare și repornirea unității."
+    "description": "Afișează harta CarPlay sau Android Auto pe bord și, dacă alegeți, pe HUD. Pe mașinile compatibile pornește singură după instalare și repornirea unității."
   }
 }

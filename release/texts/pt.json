@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze no quadrante",
-    "description": "Mostra o mapa do CarPlay ou do Android Auto no quadrante e, se quiser, no HUD. Liga-se sozinho depois de o instalar e reiniciar a unidade principal."
+    "description": "Mostra o mapa do CarPlay ou do Android Auto no quadrante e, se quiser, no HUD. Em carros compatíveis, liga-se sozinho depois de o instalar e reiniciar a unidade principal."
   }
 }

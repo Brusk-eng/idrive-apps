@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze no painel",
-    "description": "Mostra o mapa do CarPlay ou do Android Auto no painel de instrumentos e, se você quiser, no HUD. Liga sozinho depois de instalar e reiniciar a unidade principal."
+    "description": "Mostra o mapa do CarPlay ou do Android Auto no painel de instrumentos e, se você quiser, no HUD. Em carros compatíveis, liga sozinho depois de instalar e reiniciar a unidade principal."
   }
 }

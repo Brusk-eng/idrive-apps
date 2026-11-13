@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze 계기판 표시",
-    "description": "CarPlay 또는 Android Auto 지도를 계기판에 표시하고, 선택하면 HUD에도 표시합니다. 설치 후 헤드 유닛을 재시작하면 자동으로 켜집니다."
+    "description": "CarPlay 또는 Android Auto 지도를 계기판에 표시하고, 선택하면 HUD에도 표시합니다. 지원되는 차량에서는 설치 후 헤드 유닛을 재시작하면 자동으로 켜집니다."
   }
 }

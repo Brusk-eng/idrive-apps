@@ -2,8 +2,8 @@
 
 ## Unreleased
 
-A plainer description in the Store: the map turns on by itself after you
-install the app and restart the head unit.
+A plainer description in the Store: on supported cars the map turns on by
+itself after you install the app and restart the head unit.
 
 ## 0.6.7
 

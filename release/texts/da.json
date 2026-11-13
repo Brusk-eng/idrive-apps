@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze i instrumentpanelet",
-    "description": "Viser CarPlay- eller Android Auto-kortet i instrumentpanelet og, hvis du vælger det, på HUD. Det slår sig selv til, når du har installeret det og genstartet hovedenheden."
+    "description": "Viser CarPlay- eller Android Auto-kortet i instrumentpanelet og, hvis du vælger det, på HUD. På understøttede biler slår det sig selv til, når du har installeret det og genstartet hovedenheden."
   }
 }

@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze in instrumentpaneel",
-    "description": "Toont de CarPlay- of Android Auto-kaart in het instrumentpaneel en, als je dat kiest, op de HUD. Hij gaat vanzelf aan na de installatie en een herstart van de headunit."
+    "description": "Toont de CarPlay- of Android Auto-kaart in het instrumentpaneel en, als je dat kiest, op de HUD. Op ondersteunde auto's gaat hij vanzelf aan na de installatie en een herstart van de headunit."
   }
 }

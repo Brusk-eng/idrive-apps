@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze mittaristossa",
-    "description": "Näyttää CarPlayn tai Android Auton kartan mittaristossa ja halutessasi HUD-näytössä. Se kytkeytyy päälle itsestään asennuksen ja pääyksikön uudelleenkäynnistyksen jälkeen."
+    "description": "Näyttää CarPlayn tai Android Auton kartan mittaristossa ja halutessasi HUD-näytössä. Tuetuissa autoissa se kytkeytyy päälle itsestään asennuksen ja pääyksikön uudelleenkäynnistyksen jälkeen."
   }
 }

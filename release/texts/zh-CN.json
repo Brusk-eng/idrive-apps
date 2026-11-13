@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze 仪表盘显示",
-    "description": "在仪表盘上显示 CarPlay 或 Android Auto 地图，也可选择显示在 HUD 上。安装并重启主机后自动开启。"
+    "description": "在仪表盘上显示 CarPlay 或 Android Auto 地图，也可选择显示在 HUD 上。在支持的车辆上，安装并重启主机后自动开启。"
   }
 }

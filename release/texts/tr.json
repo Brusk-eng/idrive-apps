@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze göstergede",
-    "description": "CarPlay veya Android Auto haritasını göstergede, isterseniz HUD'da da gösterir. Kurulumdan ve ana ünitenin yeniden başlatılmasından sonra kendiliğinden açılır."
+    "description": "CarPlay veya Android Auto haritasını göstergede, isterseniz HUD'da da gösterir. Desteklenen araçlarda kurulumdan ve ana ünitenin yeniden başlatılmasından sonra kendiliğinden açılır."
   }
 }

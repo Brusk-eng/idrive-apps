@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze na přístrojovém štítu",
-    "description": "Zobrazí mapu CarPlay nebo Android Auto na přístrojovém štítu a podle volby i na HUD. Zapne se sám po instalaci a restartu hlavní jednotky."
+    "description": "Zobrazí mapu CarPlay nebo Android Auto na přístrojovém štítu a podle volby i na HUD. U podporovaných vozů se zapne sám po instalaci a restartu hlavní jednotky."
   }
 }

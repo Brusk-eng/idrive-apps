@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze en el cuadro",
-    "description": "Muestra el mapa de CarPlay o Android Auto en el cuadro de instrumentos y, si lo eliges, en el HUD. Se activa solo tras instalarlo y reiniciar la unidad principal."
+    "description": "Muestra el mapa de CarPlay o Android Auto en el cuadro de instrumentos y, si lo eliges, en el HUD. En los coches compatibles se activa solo tras instalarlo y reiniciar la unidad principal."
   }
 }

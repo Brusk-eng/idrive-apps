@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze im Kombiinstrument",
-    "description": "Zeigt die CarPlay- oder Android-Auto-Karte im Kombiinstrument und auf Wunsch im HUD. Sie schaltet sich nach der Installation und einem Neustart der Headunit von selbst ein."
+    "description": "Zeigt die CarPlay- oder Android-Auto-Karte im Kombiinstrument und auf Wunsch im HUD. Bei unterstützten Fahrzeugen schaltet sie sich nach der Installation und einem Neustart der Headunit von selbst ein."
   }
 }

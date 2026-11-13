@@ -4,8 +4,10 @@ Shows your phone's navigation map on the instrument cluster of a BMW with
 iDrive 7. It can also show it on the head-up display (experimental).
 
 - **CarPlay:** Waze, Apple Maps or Google Maps.
-- **Android Auto:** Google Maps, on cars and software versions where it is
-  supported. The app's Android Auto **Status** tells you.
+- **Android Auto:** Google Maps.
+
+Whether your car and its software are supported can differ for CarPlay and
+Android Auto. The app's **Status** for each tells you.
 
 ![The map on the cluster](../../docs/hud/cluster-map.jpg)
 
@@ -22,8 +24,10 @@ iDrive 7. It can also show it on the head-up display (experimental).
 
 ## What happens automatically
 
-- Installing the app turns the map on for CarPlay, and for Android Auto
-  where your car supports it. You don't need to press anything.
+- Installing the app turns the map on for CarPlay and for Android Auto,
+  each where your car supports it. You don't need to press anything.
+- If a **Status** isn't `Patched` after the restart, see
+  [If the map doesn't show](#if-the-map-doesnt-show).
 - Updates keep it on.
 - The map shows whenever your phone sends it. The app doesn't need to be
   open.
@@ -32,8 +36,9 @@ iDrive 7. It can also show it on the head-up display (experimental).
 
 No. Leave them alone unless something is wrong.
 
-- **Patch** is only needed when that phone type's **Status** isn't
-  `Patched`, for example `Not patched` or `Update needed`.
+- Press **Patch** when that phone type's **Status** says `Not patched`,
+  `Update needed` or `Removed — head unit kept restarting`. For any other
+  Status, see [If the map doesn't show](#if-the-map-doesnt-show).
 - **Remove patch** turns the map off for that phone type. Use it only if
   you want the map off, or to troubleshoot. It stays off, also after
   updates, until you press **Patch**.
@@ -92,6 +97,7 @@ apply the change.
 | `Status: Removed — head unit kept restarting` | The patch was removed because the head unit kept restarting. Press **Patch** to try again. If it happens again, [report it](#logs-and-reporting-a-problem). |
 | `Status: Untested version` | This software version of your car hasn't been tested. You can press **Patch** to try it. If the head unit keeps restarting, the patch is removed again by itself. |
 | `Status: Not supported on this car` | Your car doesn't support the map for this phone type. |
+| `Status: Unavailable` | If it stays once the head unit has fully started, [report it](#logs-and-reporting-a-problem). |
 | `Status: Failed`, `Partly patched` or `Changed by another tool` | [Report it](#logs-and-reporting-a-problem). |
 | `Cluster map: Off` | Check **Show on**: **Off** and **HUD (experimental)** keep the map off the cluster. Check that CarPlay's or Android Auto's Status is `Patched`. |
 | `Cluster map: Waiting for the phone` | Connect your phone. |

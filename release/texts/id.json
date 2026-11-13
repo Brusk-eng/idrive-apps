@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze di panel instrumen",
-    "description": "Menampilkan peta CarPlay atau Android Auto di panel instrumen, dan di HUD jika Anda memilihnya. Aktif dengan sendirinya setelah dipasang dan head unit dimulai ulang."
+    "description": "Menampilkan peta CarPlay atau Android Auto di panel instrumen, dan di HUD jika Anda memilihnya. Pada mobil yang didukung, peta aktif dengan sendirinya setelah dipasang dan head unit dimulai ulang."
   }
 }

@@ -12,8 +12,11 @@ on the head-up display (experimental).
 ![The map on the cluster](docs/hud/cluster-map.jpg)
 
 **Install:** in the Store, add the source `robertnisipeanu/idrive-apps` and
-install **Waze on cluster**. Restart the head unit when the Store asks. The
-map turns on by itself; you don't need to press anything in the app.
+install **Waze on cluster**. Restart the head unit when the Store asks, and
+in the car's settings set **Instrument cluster > Central display area** to
+**Map view**. On a
+supported car the map turns on by itself; you don't need to press anything
+in the app.
 
 Settings, what to do if the map doesn't show, and how to send logs:
 [Waze on cluster](apps/robertn_waze_cluster/README.md).

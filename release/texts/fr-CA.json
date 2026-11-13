@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze au combiné",
-    "description": "Affiche la carte CarPlay ou Android Auto sur le combiné d'instruments et, si vous le souhaitez, sur le HUD. Elle s'active d'elle-même après l'installation et un redémarrage du système."
+    "description": "Affiche la carte CarPlay ou Android Auto sur le combiné d'instruments et, si vous le souhaitez, sur le HUD. Sur les véhicules pris en charge, elle s'active d'elle-même après l'installation et un redémarrage du système."
   }
 }

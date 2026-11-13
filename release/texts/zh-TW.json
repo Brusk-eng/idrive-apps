@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze 儀表板顯示",
-    "description": "在儀表板上顯示 CarPlay 或 Android Auto 地圖，也可選擇顯示在 HUD 上。安裝並重新啟動主機後自動開啟。"
+    "description": "在儀表板上顯示 CarPlay 或 Android Auto 地圖，也可選擇顯示在 HUD 上。在支援的車輛上，安裝並重新啟動主機後自動開啟。"
   }
 }

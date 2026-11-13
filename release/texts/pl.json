@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze na zegarach",
-    "description": "Wyświetla mapę CarPlay lub Android Auto na zegarach, a jeśli wybierzesz, także na HUD. Włącza się sama po instalacji i ponownym uruchomieniu jednostki głównej."
+    "description": "Wyświetla mapę CarPlay lub Android Auto na zegarach, a jeśli wybierzesz, także na HUD. W obsługiwanych autach włącza się sama po instalacji i ponownym uruchomieniu jednostki głównej."
   }
 }

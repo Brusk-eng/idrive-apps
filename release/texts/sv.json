@@ -9,6 +9,6 @@
   },
   "robertn_waze_cluster": {
     "title": "Waze i kombiinstrumentet",
-    "description": "Visar CarPlay- eller Android Auto-kartan i kombiinstrumentet och, om du vill, på HUD. Den slås på av sig själv efter installationen och en omstart av huvudenheten."
+    "description": "Visar CarPlay- eller Android Auto-kartan i kombiinstrumentet och, om du vill, på HUD. På bilar som stöds slås den på av sig själv efter installationen och en omstart av huvudenheten."
   }
 }
