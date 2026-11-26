@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## 0.14.19
+
 A car whose cluster coding cannot be read is patched as a car coded 7,
 on trial. A car coded otherwise is not patched and its Status says why:
 on a cluster coded 9 or 10 CarPlay and Android Auto show the map

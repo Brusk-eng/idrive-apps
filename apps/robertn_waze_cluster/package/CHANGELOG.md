@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## 0.6.18
+
 The Status rows say Not supported only where the patch cannot be applied,
 and why: `Not supported on this head unit`, `Not supported — no cluster
 display`, `Not supported — this cluster`, or `Not supported — this
