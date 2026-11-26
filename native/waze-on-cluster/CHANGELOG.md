@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## 0.14.18
+
 On a car not coded for the CarPlay cluster map, a map patch that CarPlay's
 Patch button applied with a release before 0.11.0 stays on after updating;
 it showed `Not supported on this car` until Patch was pressed again.
