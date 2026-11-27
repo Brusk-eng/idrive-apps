@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## 0.6.19
+
 The app uses less background CPU and memory, loads translations only for the active language, and generates the Logs QR code faster.
 
 ## 0.6.18
