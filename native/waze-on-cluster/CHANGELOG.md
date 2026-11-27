@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## 0.14.20
+
 Android Auto reads the copy of aapd.conf with the cluster geometry in
 place of `/etc/aapd.conf` without a change to aapd's code, so an aapd
 build whose path to that file looks different is no longer refused.
