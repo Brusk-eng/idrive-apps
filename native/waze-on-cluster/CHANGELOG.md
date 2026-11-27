@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+The cluster and HUD map update with lower latency and less CPU and flash wear, and installing or updating patches runs faster and handles clock jumps more reliably.
+
 ## 0.14.20
 
 Android Auto reads the copy of aapd.conf with the cluster geometry in
